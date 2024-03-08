@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:ff85ef&height=150&animation=&fontColor=adfaff" />
 
+### ✨ About Me
 <div style="text-align: left;"> 
-    <h2> ✨ About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 배우고 익히며 구현하는 것을 즐깁니다. </div> 
 </div>
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
-<h2> 📚 Main Skills </h2> 
+### 📚 Main Skills
 <div display="flex">
 	<h4>Front</h4>
  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 Contact me
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <br> 
     <div style="text-align: left;"> <a href=https://joehyunwoo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://joehyunwoo.tistory.com/"> </a>
          <a href=https://jewel-conifer-8d8.notion.site/05960677f67c4ceea7db6b82dcb9401d?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://jewel-conifer-8d8.notion.site/05960677f67c4ceea7db6b82dcb9401d?pvs=4"> </a>
          <a href=mailto:joehyunwoo080@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:joehyunwoo080@gmail.com"> </a>
